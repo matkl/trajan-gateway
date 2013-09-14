@@ -1,0 +1,19 @@
+{
+  "name": "trajan-gateway",
+  "description": "Gateway module for use with trajan game server",
+  "version": "0.0.1",
+  "author": "Matthias Klein <matthias@klein.pw>",
+  "private": true,
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matkl/trajan-gateway.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.12.1"
+  }
+}
