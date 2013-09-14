@@ -1,6 +1,8 @@
 trajan-gateway
 ==============
 
+[![Build Status](https://travis-ci.org/matkl/trajan-gateway.png)](https://travis-ci.org/matkl/trajan-gateway)
+
 Gateway module for use with [trajan](https://github.com/matkl/trajan) game server.
 
 Not usable yet.
